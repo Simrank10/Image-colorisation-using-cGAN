@@ -15,4 +15,5 @@ The architecture consists of a Generator and a Discriminator. The Generator uses
 The model is trained using the cGAN framework. The Generator learns to produce realistic color images, while the Discriminator learns to distinguish between real and generated images.
 
 ## Results
-The trained model can recolor grayscale images with high accuracy, preserving details and maintaining visual appeal. [Include example images]
+The trained model can recolor grayscale images with high accuracy, preserving details and maintaining visual appeal.
+
